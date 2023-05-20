@@ -1,3 +1,3 @@
 # Sandbox-EX1
 
-Some initial text for the module. Another edit.
+This is a sample site for an exercise that can be seen through GitHub or as a webpage. 
